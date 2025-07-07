@@ -22,8 +22,8 @@ I am a master student in Software Engineering at Beihang University, advised by 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Our paper <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a> has been accepted by ACM MM 2025! 
-- *2022.02*: &nbsp;🎉🎉 Our paper <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a> has been accepted by CVPR 2025!
+- *2025.07*: &nbsp;🎉🎉 Our paper <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a> has been accepted by ACM MM 2025! 
+- *2025.02*: &nbsp;🎉🎉 Our paper <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a> has been accepted by CVPR 2025!
 
 
 # 📝 Publications
