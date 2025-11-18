@@ -90,6 +90,10 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- _2025.05 - Present_, [4Paradigm](https://www.4paradigm.com/), research intern. Beijing, China.
+- _2025.11 - Present_, [Tencent QQ Browser | ima](https://ima.qq.com/), algorithm intern. Beijing, China.
+
+  **Multimodal large language models** for search and retrieval.
+
+- _2025.05 - 2025.11_, [4Paradigm](https://www.4paradigm.com/), research intern. Beijing, China.
 
   **Multimodal Vector Graphics Animation Large Language Models** research in multimodal large models.
