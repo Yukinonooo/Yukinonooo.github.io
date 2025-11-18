@@ -90,7 +90,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-
 - **2025.11 – Present**, [Tencent QQ Browser | ima](https://ima.qq.com/), Algorithm Intern — Beijing, China  
   **Multimodal Large Language Models** for search and retrieval.
 
