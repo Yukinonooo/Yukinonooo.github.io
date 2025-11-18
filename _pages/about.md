@@ -45,8 +45,8 @@ I am a master student in Software Engineering at Beihang University, advised by 
 
 ACM International Conference on Multimedia, 2025.
 
-🌐 [**Project**](https://hjc-owo.github.io/GroupSketchProject/)
-
+🌐 [**Project**](https://hjc-owo.github.io/GroupSketchProject/) |
+📁 [**Code**](https://github.com/Yukinonooo/GroupSketch)
 </div>
 </div>
 
