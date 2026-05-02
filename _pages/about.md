@@ -20,7 +20,7 @@ redirect_from:
 
 I am a master's student in Software Engineering at Beihang University, advised by <a href='https://yuqian1023.github.io/'>Prof. Qian Yu.</a> My research is centered on <strong>visual code generation</strong>: building models that generate structured, editable visual <strong>code</strong> rather than rasterized outputs. I work at the intersection of multimodal large language models, vector graphics, and generative modeling, with two primary research threads. The first is <strong>SVG code generation</strong>, where I study how models can understand, reason over, and synthesize vector graphics programs, with representative works including <a href='https://arxiv.org/abs/2604.20730'>Render-in-the-Loop</a> and <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a>. The second is <strong>vector animation code generation</strong>, where I build models that generate temporally coherent, structure-preserving vector animations directly in code, represented by <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> and <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a>.
 
-More broadly, I am interested in turning code-centric multimodal models into practical systems for creation and interaction. In industry, I work on <strong>generative ranking and retrieval</strong> with multimodal large language models at <a href='https://yuanbao.tencent.com/'>Tencent Yuanbao</a>, and on <strong>code generation</strong> and <strong>post-training for code agents</strong> within the <strong>iQuest foundation large language model team</strong> at <a href='https://www.ubiquant.com/website/ai'>Ubiquant Investment</a>. These experiences further strengthen my goal of pushing AI beyond visual understanding toward controllable, executable, and production-ready visual code generation systems.
+More broadly, I am interested in turning code-centric multimodal models into practical systems for creation and interaction. In industry, I work on <strong>generative ranking and retrieval</strong> with multimodal large language models at <a href='https://yuanbao.tencent.com/'>Tencent Yuanbao</a>, and on <strong>code generation</strong> and <strong>post-training for code agents</strong> within the <a href='https://iquestlab.github.io/'><strong>iQuest foundation large language model team</strong></a> at <a href='https://www.ubiquant.com/website/ai'>Ubiquant Investment</a>. These experiences further strengthen my goal of pushing AI beyond visual understanding toward controllable, executable, and production-ready visual code generation systems.
 
 
 # 🔥 News
@@ -116,7 +116,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- **2026.03 – Present**, [Ubiquant Investment](https://www.ubiquant.com/website/ai), Algorithm Intern, iQuest Foundation Large Language Model Team — Beijing, China  
+- **2026.03 – Present**, [Ubiquant Investment](https://www.ubiquant.com/website/ai), Algorithm Intern, [iQuest Foundation Large Language Model Team](https://iquestlab.github.io/) — Beijing, China  
   Working on **code generation** and **post-training for code agents** within the **iQuest foundation large language model** team.
 
 - **2025.10 – 2026.02**, [Tencent Yuanbao](https://yuanbao.tencent.com/), Algorithm Intern, Yuanbao Search Department — Beijing, China  
