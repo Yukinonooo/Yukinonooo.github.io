@@ -18,15 +18,40 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a master student in Software Engineering at Beihang University, advised by <a href='https://yuqian1023.github.io/'>Prof. Qian Yu.</a>
+I am a master's student in Software Engineering at Beihang University, advised by <a href='https://yuqian1023.github.io/'>Prof. Qian Yu.</a> My research is centered on <strong>visual code generation</strong>: building models that generate structured, editable visual <strong>code</strong> rather than rasterized outputs. I work at the intersection of multimodal large language models, vector graphics, and generative modeling, with two primary research threads. The first is <strong>SVG code generation</strong>, where I study how models can understand, reason over, and synthesize vector graphics programs, with representative works including <a href='https://arxiv.org/abs/2604.20730'>Render-in-the-Loop</a> and <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a>. The second is <strong>vector animation code generation</strong>, where I build models that generate temporally coherent, structure-preserving vector animations directly in code, represented by <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> and <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a>.
+
+More broadly, I am interested in turning code-centric multimodal models into practical systems for creation and interaction. In industry, I work on <strong>generative ranking and retrieval</strong> with multimodal large language models at <a href='https://yuanbao.tencent.com/'>Tencent Yuanbao</a>, and on <strong>code generation</strong> and <strong>post-training for code agents</strong> within the <strong>iQuest foundation large language model team</strong> at <a href='https://www.ubiquant.com/website/ai'>Ubiquant Investment</a>. These experiences further strengthen my goal of pushing AI beyond visual understanding toward controllable, executable, and production-ready visual code generation systems.
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> has been accepted by ICML 2026!
 - *2025.07*: &nbsp;🎉🎉 Our paper <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a> has been accepted by ACM MM 2025! 
 - *2025.02*: &nbsp;🎉🎉 Our paper <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a> has been accepted by CVPR 2025!
 
 
 # 📝 Publications
+
+<!-- paper 5 -->
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/covers/vanim.png' loading="lazy" alt="VAnim"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](files/VAnim_ICML2026.pdf)
+
+**Guotao Liang**, Zhangcheng Wang, Chuang Wang, Juncheng Hu, Haitao Zhou, Junhua Liu, Jing Zhang, Dong Xu, Qian Yu
+
+[![paper](https://img.shields.io/badge/Paper-PDF-red.svg)](files/VAnim_ICML2026.pdf)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-VAnim-orange.svg)](https://yukinonooo.github.io/VAnimProject/)
+
+<b><u>TL;DR:</u></b> VAnim formulates SVG animation as **sparse state updates** on a persistent DOM tree, combining identification-first motion planning with rendering-aware RL to generate **structure-preserving vector animations** from text.
+
+International Conference on Machine Learning (ICML), 2026.
+
+📄 [**Paper**](files/VAnim_ICML2026.pdf) |
+🌐 [**Project**](https://yukinonooo.github.io/VAnimProject/)
+</div>
+</div>
 
 <!-- paper 4 -->
 
@@ -40,6 +65,7 @@ I am a master student in Software Engineering at Beihang University, advised by 
 **Guotao Liang**, Juncheng Hu, Ximing Xing, Jing Zhang, Qian Yu
 
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-GroupSketch-orange.svg)](https://hjc-owo.github.io/GroupSketchProject/)
+[![GitHub stars](https://img.shields.io/github/stars/Yukinonooo/GroupSketch?style=social)](https://github.com/Yukinonooo/GroupSketch)
 
 <b><u>TL;DR:</u></b> GroupSketch synthesizes **multi-object sketch animations** with **grouping** and **motion trajectory** priors, enabling users to create complex animations with ease.
 
@@ -90,8 +116,11 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- **2025.11 – Present**, [Tencent QQ Browser | ima](https://ima.qq.com/), Algorithm Intern — Beijing, China  
-  **Multimodal Large Language Models** for search and retrieval.
+- **2026.03 – Present**, [Ubiquant Investment](https://www.ubiquant.com/website/ai), Algorithm Intern, iQuest Foundation Large Language Model Team — Beijing, China  
+  Working on **code generation** and **post-training for code agents** within the **iQuest foundation large language model** team.
 
-- **2025.05 – 2025.11**, [4Paradigm](https://www.4paradigm.com/), Research Intern — Beijing, China  
-  **Multimodal Vector Graphics Animation Large Language Models** research in multimodal large models.
+- **2025.10 – 2026.02**, [Tencent Yuanbao](https://yuanbao.tencent.com/), Algorithm Intern, Yuanbao Search Department — Beijing, China  
+  Working on **generative ranking and retrieval** with **multimodal large language models**.
+
+- **2025.05 – 2025.09**, [4Paradigm](https://www.4paradigm.com/), Research Intern — Beijing, China  
+  Conducted research on **multimodal large language models for vector graphics animation**.
