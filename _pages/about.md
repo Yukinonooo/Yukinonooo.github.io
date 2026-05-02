@@ -35,7 +35,7 @@ I am a master student in Software Engineering at Beihang University, advised by 
 <div class='paper-box-text' markdown="1">
 
 
-[Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors](#)
+[Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors](https://arxiv.org/abs/2508.15535)
 
 **Guotao Liang**, Juncheng Hu, Ximing Xing, Jing Zhang, Qian Yu
 
@@ -95,4 +95,3 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 
 - **2025.05 – 2025.11**, [4Paradigm](https://www.4paradigm.com/), Research Intern — Beijing, China  
   **Multimodal Vector Graphics Animation Large Language Models** research in multimodal large models.
-
