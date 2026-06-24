@@ -24,12 +24,35 @@ More broadly, I am interested in turning code-centric multimodal models into pra
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/abs/2604.20730'>Render-in-the-Loop</a> has been accepted by ECCV 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> has been accepted by ICML 2026!
 - *2025.07*: &nbsp;🎉🎉 Our paper <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a> has been accepted by ACM MM 2025! 
 - *2025.02*: &nbsp;🎉🎉 Our paper <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a> has been accepted by CVPR 2025!
 
 
 # 📝 Publications
+
+<!-- paper 6 -->
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/covers/vsf.png' loading="lazy" alt="Render-in-the-Loop"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](files/Render_in_the_Loop_ECCV2026.pdf)
+
+**Guotao Liang**, Zhangcheng Wang, Juncheng Hu, Haitao Zhou, Ziteng Xue, Jing Zhang, Dong Xu, Qian Yu
+
+[![paper](https://img.shields.io/badge/Paper-PDF-red.svg)](files/Render_in_the_Loop_ECCV2026.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2604.20730-b31b1b.svg)](https://arxiv.org/abs/2604.20730)
+
+<b><u>TL;DR:</u></b> Render-in-the-Loop closes the loop for **SVG generation** by rendering intermediate code states back into the MLLM, enabling **Visual Self-Feedback** training and **Render-and-Verify** inference for cleaner, more reliable vector graphics.
+
+European Conference on Computer Vision (ECCV), 2026.
+
+📄 [**Paper**](files/Render_in_the_Loop_ECCV2026.pdf) |
+📝 [**arXiv**](https://arxiv.org/abs/2604.20730)
+</div>
+</div>
 
 <!-- paper 5 -->
 <div class='paper-box'>
