@@ -107,3 +107,22 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.badge-eccv {
+    margin-top: .65em;
+    margin-left: -.65em;
+    padding: .28rem 1.1rem;
+    border-radius: 0 999px 999px 0;
+    background: linear-gradient(135deg, #175f66 0%, #6b4a86 100%);
+    box-shadow: 0 6px 14px rgba(23, 95, 102, .28);
+    font-size: .95em;
+    font-weight: 700;
+    letter-spacing: .02em;
+}
+
+.paper-note {
+    display: block;
+    margin-top: -.5em;
+    color: #6f777f;
+    font-size: .88em;
+}

@@ -117,14 +117,16 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      min-height: 30px;
-      padding: 4px 12px;
-      border: 1px solid rgba(184, 111, 25, 0.26);
+      min-height: 40px;
+      padding: 7px 20px;
+      border: 1px solid rgba(184, 111, 25, 0.34);
       border-radius: 999px;
       color: var(--gold);
-      background: rgba(255, 246, 231, 0.72);
-      font-size: 13px;
+      background: linear-gradient(180deg, rgba(255, 249, 238, 0.95), rgba(255, 240, 215, 0.72));
+      box-shadow: 0 9px 24px rgba(184, 111, 25, 0.10), inset 0 1px 0 rgba(255, 255, 255, 0.90);
+      font-size: 15px;
       font-weight: 800;
+      letter-spacing: 0.04em;
       text-transform: uppercase;
     }
 
@@ -155,8 +157,27 @@
       font-size: 16px;
     }
 
-    .authors strong {
-      font-weight: 820;
+    .authors a {
+      color: inherit;
+    }
+
+    .authors a:hover {
+      color: inherit;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+
+    .authors sup {
+      color: var(--plum);
+      font-size: 0.72em;
+      font-weight: 800;
+      margin-left: 1px;
+    }
+
+    .author-note {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 13px;
     }
 
     .affiliations {
@@ -521,16 +542,17 @@
       </h1>
       <p class="subtitle">A step-wise SVG generation paradigm where a multimodal LLM draws code, renders the partial canvas, sees its own visual state, and uses that feedback to generate the next primitive.</p>
       <p class="authors">
-        <a href="../"><strong>Guotao Liang</strong></a>,
+        <a href="../">Guotao Liang</a>,
         Zhangcheng Wang,
         Juncheng Hu,
         Haitao Zhou,
         Ziteng Xue,
         Jing Zhang,
         Dong Xu,
-        Qian Yu
+        Qian Yu<sup>&dagger;</sup>
       </p>
       <div class="affiliations">Beihang University &middot; The University of Hong Kong &middot; 4Paradigm</div>
+      <div class="author-note"><sup>&dagger;</sup> Corresponding author.</div>
       <div class="links">
         <a class="link-button primary" href="../files/Render_in_the_Loop_ECCV2026.pdf">Paper</a>
         <a class="link-button" href="https://arxiv.org/abs/2604.20730">arXiv</a>

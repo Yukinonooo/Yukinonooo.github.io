@@ -34,13 +34,15 @@ More broadly, I am interested in turning code-centric multimodal models into pra
 
 <!-- paper 6 -->
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/covers/vsf.png' loading="lazy" alt="Render-in-the-Loop"></div></div>
+<div class='paper-box-image'><div><div class="badge badge-eccv">ECCV 2026</div><img src='images/covers/vsf.png' loading="lazy" alt="Render-in-the-Loop"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 [Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](files/Render_in_the_Loop_ECCV2026.pdf)
 
-**Guotao Liang**, Zhangcheng Wang, Juncheng Hu, Haitao Zhou, Ziteng Xue, Jing Zhang, Dong Xu, Qian Yu
+Guotao Liang, Zhangcheng Wang, Juncheng Hu, Haitao Zhou, Ziteng Xue, Jing Zhang, Dong Xu, Qian Yu<sup>†</sup>
+
+<span class="paper-note"><sup>†</sup> Corresponding author.</span>
 
 [![paper](https://img.shields.io/badge/Paper-PDF-red.svg)](files/Render_in_the_Loop_ECCV2026.pdf)
 [![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-Render--in--the--Loop-orange.svg)](https://yukinonooo.github.io/RenderInTheLoopProject/)
