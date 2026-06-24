@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a master's student in Software Engineering at Beihang University, advised by <a href='https://yuqian1023.github.io/'>Prof. Qian Yu.</a> My research is centered on <strong>visual code generation</strong>: building models that generate structured, editable visual <strong>code</strong> rather than rasterized outputs. I work at the intersection of multimodal large language models, vector graphics, and generative modeling, with two primary research threads. The first is <strong>SVG code generation</strong>, where I study how models can understand, reason over, and synthesize vector graphics programs, with representative works including <a href='https://arxiv.org/abs/2604.20730'>Render-in-the-Loop</a> and <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a>. The second is <strong>vector animation code generation</strong>, where I build models that generate temporally coherent, structure-preserving vector animations directly in code, represented by <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> and <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a>.
+I am a master's student in Software Engineering at Beihang University, advised by <a href='https://yuqian1023.github.io/'>Prof. Qian Yu.</a> My research is centered on <strong>visual code generation</strong>: building models that generate structured, editable visual <strong>code</strong> rather than rasterized outputs. I work at the intersection of multimodal large language models, vector graphics, and generative modeling, with two primary research threads. The first is <strong>SVG code generation</strong>, where I study how models can understand, reason over, and synthesize vector graphics programs, with representative works including <a href='https://yukinonooo.github.io/RenderInTheLoopProject/'>Render-in-the-Loop</a> and <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a>. The second is <strong>vector animation code generation</strong>, where I build models that generate temporally coherent, structure-preserving vector animations directly in code, represented by <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> and <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a>.
 
 More broadly, I am interested in turning code-centric multimodal models into practical systems for creation and interaction. Currently, I am a Qingyun Program Research Intern in the Pre-training Group at <a href='https://youtu-tip.com/#llm'>Tencent YouTu Lab</a>, working on <strong>native multimodal foundation large language models</strong> for vector graphics generation. My industry research focuses on applying MLLMs to <strong>visual code generation agents</strong>, and on building <strong>TTSScore</strong>, a trustworthy Text-to-SVG metric and benchmark for measuring the faithfulness between SVG outputs and text prompts. Previously, I worked on <strong>generative ranking and retrieval</strong> at <a href='https://yuanbao.tencent.com/'>Tencent Yuanbao</a>, and on <strong>code agents</strong> and <strong>search agents</strong> within the <a href='https://iquestlab.github.io/'><strong>iQuest foundation large language model team</strong></a> at <a href='https://www.ubiquant.com/website/ai'>Ubiquant Investment</a>. These experiences further strengthen my goal of pushing AI beyond visual understanding toward controllable, executable, and production-ready visual code generation systems.
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/abs/2604.20730'>Render-in-the-Loop</a> has been accepted by ECCV 2026!
+- *2026.06*: &nbsp;🎉🎉 Our paper <a href='https://yukinonooo.github.io/RenderInTheLoopProject/'>Render-in-the-Loop</a> has been accepted by ECCV 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> has been accepted by ICML 2026!
 - *2025.07*: &nbsp;🎉🎉 Our paper <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a> has been accepted by ACM MM 2025! 
 - *2025.02*: &nbsp;🎉🎉 Our paper <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a> has been accepted by CVPR 2025!
@@ -43,6 +43,7 @@ More broadly, I am interested in turning code-centric multimodal models into pra
 **Guotao Liang**, Zhangcheng Wang, Juncheng Hu, Haitao Zhou, Ziteng Xue, Jing Zhang, Dong Xu, Qian Yu
 
 [![paper](https://img.shields.io/badge/Paper-PDF-red.svg)](files/Render_in_the_Loop_ECCV2026.pdf)
+[![project](https://img.shields.io/badge/%F0%9F%8F%A0%20Homepage-Render--in--the--Loop-orange.svg)](https://yukinonooo.github.io/RenderInTheLoopProject/)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.20730-b31b1b.svg)](https://arxiv.org/abs/2604.20730)
 
 <b><u>TL;DR:</u></b> Render-in-the-Loop closes the loop for **SVG generation** by rendering intermediate code states back into the MLLM, enabling **Visual Self-Feedback** training and **Render-and-Verify** inference for cleaner, more reliable vector graphics.
@@ -50,6 +51,7 @@ More broadly, I am interested in turning code-centric multimodal models into pra
 European Conference on Computer Vision (ECCV), 2026.
 
 📄 [**Paper**](files/Render_in_the_Loop_ECCV2026.pdf) |
+🌐 [**Project**](https://yukinonooo.github.io/RenderInTheLoopProject/) |
 📝 [**arXiv**](https://arxiv.org/abs/2604.20730)
 </div>
 </div>
