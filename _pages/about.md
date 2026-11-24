@@ -18,12 +18,43 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a master's student in Software Engineering at Beihang University, advised by <a href='https://yuqian1023.github.io/'>Prof. Qian Yu.</a> My research is centered on <strong>visual code generation</strong>: building models that generate structured, editable visual <strong>code</strong> rather than rasterized outputs. I work at the intersection of multimodal large language models, vector graphics, and generative modeling, with two primary research threads. The first is <strong>SVG code generation</strong>, where I study how models can understand, reason over, and synthesize vector graphics programs, with representative works including <a href='https://yukinonooo.github.io/RenderInTheLoopProject/'>Render-in-the-Loop</a> and <a href='https://ximinng.github.io/LLM4SVGProject/'>LLM4SVG</a>. The second is <strong>vector animation code generation</strong>, where I build models that generate temporally coherent, structure-preserving vector animations directly in code, represented by <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> and <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a>.
+I am a master's student in Software Engineering at Beihang University, advised by <a href='https://yuqian1023.github.io/'>Prof. Qian Yu</a>. I build multimodal models that write <strong>visual code</strong>, producing editable SVG graphics and vector animations instead of pixels. I am currently working on <strong>RL post-training</strong> for the <a href='https://huggingface.co/rednote-hilab'><strong>dots</strong></a> foundation models at Xiaohongshu (rednote) through the ACE Top Talent Program.
 
-More broadly, I am interested in turning code-centric multimodal models into practical systems for creation and interaction. Currently, I am a Qingyun Program Research Intern in the Pre-training Group at <a href='https://youtu-tip.com/#llm'>Tencent YouTu Lab</a>, working on <strong>native multimodal foundation large language models</strong> for vector graphics generation. My industry research focuses on applying MLLMs to <strong>visual code generation agents</strong>, and on building <strong>TTSScore</strong>, a trustworthy Text-to-SVG metric and benchmark for measuring the faithfulness between SVG outputs and text prompts. Previously, I worked on <strong>generative ranking and retrieval</strong> at <a href='https://yuanbao.tencent.com/'>Tencent Yuanbao</a>, and on <strong>code agents</strong> and <strong>search agents</strong> within the <a href='https://iquestlab.github.io/'><strong>iQuest foundation large language model team</strong></a> at <a href='https://www.ubiquant.com/website/ai'>Ubiquant Investment</a>. These experiences further strengthen my goal of pushing AI beyond visual understanding toward controllable, executable, and production-ready visual code generation systems.
+<div class="glance">
+  <div class="glance-card">
+    <a href="https://yukinonooo.github.io/RenderInTheLoopProject/"><img src="images/covers/vsf.png" loading="lazy" alt="Render-in-the-Loop SVG generation"></a>
+    <div class="glance-body">
+      <div class="glance-title">🎨 SVG Code Generation</div>
+      <div class="glance-desc">Text → editable SVG programs</div>
+      <div class="glance-links">
+        <span class="gl-item"><a href="https://yukinonooo.github.io/RenderInTheLoopProject/">Render-in-the-Loop</a><span>ECCV'26</span></span>
+        <span class="gl-item"><a href="https://ximinng.github.io/LLM4SVGProject/">LLM4SVG</a><span>CVPR'25</span></span>
+        <span class="gl-item"><a href="https://github.com/Yukinonooo/SVGFaith">SVGFaith</a><span>arXiv'26</span></span>
+      </div>
+    </div>
+  </div>
+  <div class="glance-card">
+    <a href="https://yukinonooo.github.io/VAnimProject/" class="glance-anim">
+      <video src="images/vanim/2.mp4" autoplay muted loop playsinline></video>
+      <video src="images/vanim/4.mp4" autoplay muted loop playsinline></video>
+      <video src="images/vanim/17.mp4" autoplay muted loop playsinline></video>
+      <video src="images/vanim/18.mp4" autoplay muted loop playsinline></video>
+    </a>
+    <div class="glance-body">
+      <div class="glance-title">🎬 Vector Animation Generation</div>
+      <div class="glance-desc">Text → structure-preserving SVG animation</div>
+      <div class="glance-links">
+        <span class="gl-item"><a href="https://yukinonooo.github.io/VAnimProject/">VAnim</a><span>ICML'26</span></span>
+        <span class="gl-item"><a href="https://hjc-owo.github.io/GroupSketchProject/">GroupSketch</a><span>MM'25</span></span>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🏅 Awarded the **Shen Yuan Medal**, the highest honor for students at Beihang University.
+- *2026.11*: &nbsp;🚀 We released <a href='https://github.com/Yukinonooo/SVGFaith'>SVGFaith</a>, a meta-evaluation benchmark for Text-to-SVG faithfulness metrics.
 - *2026.06*: &nbsp;🎉🎉 Our paper <a href='https://yukinonooo.github.io/RenderInTheLoopProject/'>Render-in-the-Loop</a> has been accepted by ECCV 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> has been accepted by ICML 2026!
 - *2025.07*: &nbsp;🎉🎉 Our paper <a href='https://hjc-owo.github.io/GroupSketchProject/'>GroupSketch</a> has been accepted by ACM MM 2025! 
@@ -129,9 +160,33 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🧪 Preprints
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><img src='images/svgfaith/teaser.png' loading="lazy" alt="SVGFaith"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SVGFaith: A Two-Layer Meta-Evaluation of Faithfulness Metrics for Text-to-SVG Generation](https://arxiv.org/abs/2611.06048)
+
+**Guotao Liang**, Haitao Zhou, Biao Liu, Huanxuan Liao, Lingfeng Qiao, Qian-Wen Zhang, Qian Yu, Di Yin, Xing Sun
+
+[![arXiv](https://img.shields.io/badge/arXiv-2611.06048-b31b1b.svg)](https://arxiv.org/abs/2611.06048)
+[![GitHub stars](https://img.shields.io/github/stars/Yukinonooo/SVGFaith?style=social)](https://github.com/Yukinonooo/SVGFaith)
+[![Benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-SVGFaith-fcd022.svg)](https://huggingface.co/datasets/Yukinonooo/SVGFaith)
+
+<b><u>TL;DR:</u></b> Does your Text-to-SVG metric actually prefer the more faithful SVG? SVGFaith tests this with **1,842 controlled contrastive pairs** over eight capability axes and **1,327 human comparisons** of real generator outputs, and proposes **SVGFaith-Score**, an interpretable metric that beats CLIP-style scores and VLM judges on both layers.
+
+📝 [**arXiv**](https://arxiv.org/abs/2611.06048) |
+📁 [**Code**](https://github.com/Yukinonooo/SVGFaith) |
+🤗 [**Benchmark**](https://huggingface.co/datasets/Yukinonooo/SVGFaith) |
+🤗 [**Decomposer**](https://huggingface.co/Yukinonooo/SVGFaith-Decomposer)
+</div>
+</div>
+
+# 🎖 Honors & Awards
+- *2026.11*: **Shen Yuan Medal** (the highest honor for students at Beihang University, 10 recipients), 沈元奖章（北航学生最高荣誉，10人）.
+- *2026.11*: **Beijing Merit Student**, 北京市三好学生.
+- *2026.10*: **National Scholarship**, 国家奖学金.
 
 # 📖 Educations
 - _2024.09 – Present_: **M.S. in Software Engineering**, School of Software, Beihang University
@@ -143,14 +198,14 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- **2026.06 – Present**, [Tencent YouTu Lab](https://youtu-tip.com/#llm), Research Intern, Qingyun Program, Pre-training Group — Beijing, China  
-  Working on **native multimodal foundation large language models** for **vector graphics generation**, with a focus on **visual code generation agents** and **TTSScore**, a trustworthy Text-to-SVG metric and benchmark for evaluating faithfulness between SVG outputs and text prompts.
+- **2026.09 – Present**, Xiaohongshu (rednote), Algorithm Intern, ACE Top Talent Program, [dots Foundation Model Team](https://huggingface.co/rednote-hilab), Post-training — Beijing, China  
+  Working on **post-training** for the dots foundation models, centered on **reinforcement learning (RL)** and supported by **SFT data and environment synthesis**. Main contributor to an **agent arena** that evaluates coding agents on real-life tasks such as **Blender 3D interior design** and **video editing**.
 
-- **2026.03 – 2026.06**, [Ubiquant Investment](https://www.ubiquant.com/website/ai), Algorithm Intern, [iQuest Foundation Large Language Model Team](https://iquestlab.github.io/) — Beijing, China  
-  Worked on **code agent** and **search agent** training/post-training within the **iQuest foundation large language model** team.
+- **2026.06 – 2026.09**, [Tencent YouTu Lab](https://youtu-tip.com/#llm), Research Intern, Qingyun Program, Pre-training Group — Beijing, China  
+  Built [**SVGFaith**](https://github.com/Yukinonooo/SVGFaith), a meta-evaluation benchmark and metric for Text-to-SVG faithfulness, and a **multi-agent system based on recursive self-improvement (RSI)** that drives a **self-evolving data flywheel**.
 
-- **2025.10 – 2026.02**, [Tencent Yuanbao](https://yuanbao.tencent.com/), Algorithm Intern, Yuanbao Search Department — Beijing, China  
-  Working on **generative ranking and retrieval** with **multimodal large language models**.
+- **2026.01 – 2026.06**, [Ubiquant Investment](https://www.ubiquant.com/website/ai), Algorithm Intern, [iQuest Foundation Large Language Model Team](https://iquestlab.github.io/) — Beijing, China  
+  Worked on **code agent** training and post-training.
 
-- **2025.05 – 2025.09**, [4Paradigm](https://www.4paradigm.com/), Research Intern — Beijing, China  
+- **2025.05 – 2025.12**, [4Paradigm](https://www.4paradigm.com/), Research Intern — Beijing, China  
   Conducted research on **multimodal large language models for vector graphics animation**.
