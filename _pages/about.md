@@ -198,14 +198,38 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- **2026.09 – Present**, Xiaohongshu (rednote), Algorithm Intern, ACE Top Talent Program, [dots Foundation Model Team](https://studio.dots.ai/dots/dots3-zh.html), Post-training — Beijing, China  
-  Working on **post-training** for the dots foundation models, centered on **reinforcement learning (RL)** and supported by **SFT data and environment synthesis**. Main contributor to an **agent arena** that evaluates coding agents on real-life tasks such as **Blender 3D interior design** and **video editing**.
 
-- **2026.06 – 2026.09**, [Tencent YouTu Lab](https://youtu-tip.com/#llm), Research Intern, Qingyun Program, Pre-training Group — Beijing, China  
-  Built [**SVGFaith**](https://github.com/Yukinonooo/SVGFaith), a meta-evaluation benchmark and metric for Text-to-SVG faithfulness, and a **multi-agent system based on recursive self-improvement (RSI)** that drives a **self-evolving data flywheel**.
+<div class="intern current">
+  <div class="intern-head"><b>2026.09 – Present</b><i>·</i><a href="https://studio.dots.ai/dots/dots3-zh.html">dots</a>, Xiaohongshu (rednote)<i>·</i>Algorithm Intern, ACE Top Talent Program<i>·</i>Beijing, China</div>
+  <div class="intern-title">Post-training for dots Foundation Models</div>
+  <ul>
+    <li>Working on <b>reinforcement learning (RL)</b> post-training for the dots foundation models.</li>
+    <li>Main contributor to an <b>agent arena</b> that evaluates coding agents on real-life tasks such as Blender 3D interior design and video editing.</li>
+    <li>Synthesizing <b>SFT data and training environments</b> for agentic tasks.</li>
+  </ul>
+</div>
 
-- **2026.01 – 2026.06**, [Ubiquant Investment](https://www.ubiquant.com/website/ai), Algorithm Intern, [iQuest Foundation Large Language Model Team](https://iquestlab.github.io/) — Beijing, China  
-  Worked on **code agent** training and post-training.
+<div class="intern">
+  <div class="intern-head"><b>2026.06 – 2026.09</b><i>·</i><a href="https://youtu-tip.com/#llm">Tencent YouTu Lab</a><i>·</i>Research Intern, Qingyun Program<i>·</i>Beijing, China</div>
+  <div class="intern-title">Text-to-SVG Evaluation &amp; Self-Evolving Data</div>
+  <ul>
+    <li>Built <a href="https://github.com/Yukinonooo/SVGFaith"><b>SVGFaith</b></a>, a meta-evaluation benchmark and interpretable metric for Text-to-SVG faithfulness.</li>
+    <li>Built a <b>multi-agent system based on recursive self-improvement (RSI)</b> that drives a self-evolving data flywheel.</li>
+  </ul>
+</div>
 
-- **2025.05 – 2025.12**, [4Paradigm](https://www.4paradigm.com/), Research Intern — Beijing, China  
-  Conducted research on **multimodal large language models for vector graphics animation**.
+<div class="intern">
+  <div class="intern-head"><b>2026.01 – 2026.06</b><i>·</i><a href="https://www.ubiquant.com/website/ai">Ubiquant Investment</a><i>·</i>Algorithm Intern, <a href="https://iquestlab.github.io/">iQuest LLM Team</a><i>·</i>Beijing, China</div>
+  <div class="intern-title">Code Agents</div>
+  <ul>
+    <li>Worked on <b>code agent</b> training and post-training for the iQuest foundation large language models.</li>
+  </ul>
+</div>
+
+<div class="intern">
+  <div class="intern-head"><b>2025.05 – 2025.12</b><i>·</i><a href="https://www.4paradigm.com/">4Paradigm</a><i>·</i>Research Intern<i>·</i>Beijing, China</div>
+  <div class="intern-title">Vector Graphics Animation</div>
+  <ul>
+    <li>Conducted research on <b>multimodal large language models for vector graphics animation</b>.</li>
+  </ul>
+</div>

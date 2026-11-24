@@ -217,6 +217,41 @@ h1:before, .anchor:before {
     }
 }
 
+/* Internship entries */
+.intern {
+    border-left: 3px solid #b8bcc2;
+    padding: .1em 0 .1em 1.1em;
+    margin: 0 0 1.6em;
+
+    &.current {
+        border-left-color: #2f6fdf;
+    }
+
+    .intern-head {
+        line-height: 1.6;
+
+        i {
+            font-style: normal;
+            color: #8a9096;
+            margin: 0 .5em;
+        }
+    }
+
+    .intern-title {
+        font-weight: 700;
+        margin-top: .35em;
+    }
+
+    ul {
+        margin: .4em 0 0;
+        padding-left: 1.2em;
+    }
+
+    li {
+        margin-bottom: .2em;
+    }
+}
+
 .paper-note {
     display: block;
     margin-top: -.5em;
