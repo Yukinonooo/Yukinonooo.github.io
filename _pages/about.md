@@ -53,7 +53,7 @@ I am a master's student in Software Engineering at Beihang University, advised b
 
 
 # 🔥 News
-- *2026.11*: &nbsp;🏅 Awarded the **Shen Yuan Medal**, the highest honor for students at Beihang University.
+- *2026.11*: &nbsp;🏅 Awarded the **Shen Yuan Medal**, the highest honor for students at Beihang University (10 recipients).
 - *2026.11*: &nbsp;🚀 We released <a href='https://github.com/Yukinonooo/SVGFaith'>SVGFaith</a>, a meta-evaluation benchmark for Text-to-SVG faithfulness metrics.
 - *2026.06*: &nbsp;🎉🎉 Our paper <a href='https://yukinonooo.github.io/RenderInTheLoopProject/'>Render-in-the-Loop</a> has been accepted by ECCV 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper <a href='https://yukinonooo.github.io/VAnimProject/'>VAnim</a> has been accepted by ICML 2026!
@@ -210,7 +210,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 </div>
 
 <div class="intern">
-  <div class="intern-head"><b>2026.06 – 2026.09</b><i>·</i><a href="https://youtu-tip.com/#llm">Tencent YouTu Lab</a><i>·</i>Research Intern, Qingyun Program<i>·</i>Beijing, China</div>
+  <div class="intern-head"><b>2026.06 – 2026.09</b><i>·</i><a href="https://youtu-tip.com/#llm">Tencent YouTu Lab</a><i>·</i>Algorithm Intern, Qingyun Program<i>·</i>Beijing, China</div>
   <div class="intern-title">Text-to-SVG Evaluation &amp; Self-Evolving Data</div>
   <ul>
     <li>Built <a href="https://github.com/Yukinonooo/SVGFaith"><b>SVGFaith</b></a>, a meta-evaluation benchmark and interpretable metric for Text-to-SVG faithfulness.</li>
@@ -227,7 +227,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 </div>
 
 <div class="intern">
-  <div class="intern-head"><b>2025.05 – 2025.12</b><i>·</i><a href="https://www.4paradigm.com/">4Paradigm</a><i>·</i>Research Intern<i>·</i>Beijing, China</div>
+  <div class="intern-head"><b>2025.05 – 2025.12</b><i>·</i><a href="https://www.4paradigm.com/">4Paradigm</a><i>·</i>Algorithm Intern<i>·</i>Beijing, China</div>
   <div class="intern-title">Vector Graphics Animation</div>
   <ul>
     <li>Conducted research on <b>multimodal large language models for vector graphics animation</b>.</li>
