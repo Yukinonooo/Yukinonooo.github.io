@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a master's student in Software Engineering at Beihang University, advised by <a href='https://yuqian1023.github.io/'>Prof. Qian Yu</a>. I build multimodal models that write <strong>visual code</strong>, producing editable SVG graphics and vector animations instead of pixels. I am currently working on <strong>RL post-training</strong> for the <a href='https://huggingface.co/rednote-hilab'><strong>dots</strong></a> foundation models at Xiaohongshu (rednote) through the ACE Top Talent Program.
+I am a master's student in Software Engineering at Beihang University, advised by <a href='https://yuqian1023.github.io/'>Prof. Qian Yu</a>. I build multimodal models that write <strong>visual code</strong>, producing editable SVG graphics and vector animations instead of pixels. I am currently working on <strong>RL post-training</strong> for the <a href='https://studio.dots.ai/dots/dots3-zh.html'><strong>dots</strong></a> foundation models at Xiaohongshu (rednote) through the ACE Top Talent Program.
 
 <div class="glance">
   <div class="glance-card">
@@ -198,7 +198,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- **2026.09 – Present**, Xiaohongshu (rednote), Algorithm Intern, ACE Top Talent Program, [dots Foundation Model Team](https://huggingface.co/rednote-hilab), Post-training — Beijing, China  
+- **2026.09 – Present**, Xiaohongshu (rednote), Algorithm Intern, ACE Top Talent Program, [dots Foundation Model Team](https://studio.dots.ai/dots/dots3-zh.html), Post-training — Beijing, China  
   Working on **post-training** for the dots foundation models, centered on **reinforcement learning (RL)** and supported by **SFT data and environment synthesis**. Main contributor to an **agent arena** that evaluates coding agents on real-life tasks such as **Blender 3D interior design** and **video editing**.
 
 - **2026.06 – 2026.09**, [Tencent YouTu Lab](https://youtu-tip.com/#llm), Research Intern, Qingyun Program, Pre-training Group — Beijing, China  
